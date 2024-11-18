@@ -1,1 +1,0 @@
-import{b as e}from"./index.760fd13d.js";import{c as r}from"./vue-i18n.runtime.255dbe4e.js";var t={},c=e(({app:o})=>{const a=r({locale:"ru",globalInjection:!0,messages:t});o.use(a)});export{c as default};
