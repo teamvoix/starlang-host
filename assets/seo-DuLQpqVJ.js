@@ -1,0 +1,1 @@
+import{i as e}from"./index-BwZyIM8m.js";var t=e(()=>{document.querySelectorAll(`[data-static-seo]`).forEach(e=>e.remove())});export{t as default};
